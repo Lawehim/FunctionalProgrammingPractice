@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\bin\Debug\netcoreapp3.1\FunctionalProgrammingPractice.exe
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\bin\Debug\netcoreapp3.1\FunctionalProgrammingPractice.deps.json
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\bin\Debug\netcoreapp3.1\FunctionalProgrammingPractice.runtimeconfig.json
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\bin\Debug\netcoreapp3.1\FunctionalProgrammingPractice.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\bin\Debug\netcoreapp3.1\FunctionalProgrammingPractice.dll
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\bin\Debug\netcoreapp3.1\FunctionalProgrammingPractice.pdb
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\bin\Debug\netcoreapp3.1\Workings.dll
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\bin\Debug\netcoreapp3.1\Workings.pdb
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.AssemblyInfo.cs
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.csproj.CopyComplete
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.dll
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.pdb
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\FunctionalProgrammingPractice\obj\Debug\netcoreapp3.1\FunctionalProgrammingPractice.genruntimeconfig.cache

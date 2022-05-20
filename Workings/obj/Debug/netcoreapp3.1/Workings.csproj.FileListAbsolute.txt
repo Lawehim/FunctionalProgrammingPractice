@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\bin\Debug\netcoreapp3.1\Workings.deps.json
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\bin\Debug\netcoreapp3.1\Workings.dll
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\bin\Debug\netcoreapp3.1\Workings.pdb
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\obj\Debug\netcoreapp3.1\Workings.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\obj\Debug\netcoreapp3.1\Workings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\obj\Debug\netcoreapp3.1\Workings.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\obj\Debug\netcoreapp3.1\Workings.AssemblyInfo.cs
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\obj\Debug\netcoreapp3.1\Workings.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\obj\Debug\netcoreapp3.1\Workings.dll
+C:\Users\hp\source\repos\FunctionalProgrammingPractice\Workings\obj\Debug\netcoreapp3.1\Workings.pdb

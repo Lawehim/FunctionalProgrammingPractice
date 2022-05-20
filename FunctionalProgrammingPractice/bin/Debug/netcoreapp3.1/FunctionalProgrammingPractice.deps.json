@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FunctionalProgrammingPractice/1.0.0": {
+        "dependencies": {
+          "Workings": "1.0.0"
+        },
+        "runtime": {
+          "FunctionalProgrammingPractice.dll": {}
+        }
+      },
+      "Workings/1.0.0": {
+        "runtime": {
+          "Workings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunctionalProgrammingPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
