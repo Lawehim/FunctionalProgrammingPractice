@@ -7,6 +7,9 @@ namespace Workings
         public static decimal CalculateDiscount(decimal amount, decimal discountRate)
         {
             return amount * (1 - (1 - discountRate/100));
+
+            
+            
         }
     }
 }
